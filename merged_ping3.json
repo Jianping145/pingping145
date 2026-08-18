@@ -3540,9 +3540,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/qist/tvbox/master/jar/spider.jar",
-      "timeout": 30      
+      "changeable": 1      
     },
     {
       "key": "javhome",
