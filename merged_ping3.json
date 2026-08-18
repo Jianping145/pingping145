@@ -3536,7 +3536,11 @@
       "key": "4kporno",
       "name": "🐬4kporno.py｜🔞[成人]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/4kporno.py",      
+      "api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/4kporno.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
     },
     {
       "key": "javhome",
