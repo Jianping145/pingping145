@@ -3568,7 +3568,11 @@
       "key": "netfapx",
       "name": "🐬netfapx.py｜🔞[成人]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/netfapx .py"
+      "api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/netfapx.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
     }
   ],
   "lives": [
