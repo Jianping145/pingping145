@@ -1053,7 +1053,10 @@
             "key": "exporntoons",
             "name": "🐬exporntoons.py｜🔞[成人]",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/exporntoons.py"
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/exporntoons.py",
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
 		{
 			"key": "91porn",
