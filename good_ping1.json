@@ -1038,6 +1038,20 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/Pornhub.py"
 		},
 		{
+            "key": "pornhub",
+            "name": "Pornhub",
+            "type": 3,
+            "api": "pornhub.py｜🔞[成人]",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/pornhub.py",
+            "header": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            "Referer": "https://cn.pornhub.com/"
+            }
+        },
+		{
 			"key": "xhamster",
 			"name": "🐬xhamster.py｜🔞[成人]",
 			"type": 3,
