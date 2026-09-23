@@ -1039,9 +1039,9 @@
 		},
 		{
             "key": "pornhub",
-            "name": "Pornhub",
+            "name": "🐬Pornhub.py｜🔞[成人]",
             "type": 3,
-            "api": "pornhub.py｜🔞[成人]",
+            "api": "pornhub",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
