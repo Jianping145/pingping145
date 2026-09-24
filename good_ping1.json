@@ -803,10 +803,20 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/妈妈自拍.py"
 		},
 		{
-          "key": "catemby",
-          "name": "🐬catemby.py｜🔞[成人]",
-          "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/catemby.py"
+            "key": "catemby",
+            "name": "🐬catemby.py｜🔞[成人]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/catemby.py"
+        },
+		{
+            "key": "rou",
+            "name": "肉視頻.py｜🔞[成人]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/rou.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "{\"worker\":\"https://rou-hls.jianpingwu145.workers.dev\",\"key\":\"rou\"}"
         },
 		{
           "key": "教授",
