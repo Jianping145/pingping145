@@ -1208,6 +1208,13 @@
             "homePage": "https://jianping145.github.io/index/javdb.html"
         },
 		{
+            "key": "naughtyblog.",
+            "name": "🐬naughtyblog｜🔞[成人][html]",
+            "type": 3,
+            "api": "csp_wbbb",
+            "homePage": "https://jianping145.github.io/index/naughtyblog.html"
+        },
+		{
 			"key": "聚合",
 			"name": "🐬采集聚合成人｜🔞[成人]",
 			"type": 3,
