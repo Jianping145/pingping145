@@ -816,7 +816,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "{\"worker\":\"https://rou-hls.jianpingwu145.workers.dev\",\"key\":\"rou\"}"
+            "ext": "{\"key\":\"rou\",\"proxyDoMode\":\"py\",\"localProxyUrl\":\"http://127.0.0.1:9978/proxy\"}"
         },
 		{
           "key": "教授",
