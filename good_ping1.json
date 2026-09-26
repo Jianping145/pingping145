@@ -743,6 +743,12 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/91大赛.py"
 		},
 		{
+			"key": "顺丰多源",
+			"name": "🐬顺丰多源.py｜🔞[成人]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/顺丰多源.py"
+		},
+		{
 			"key": "mrds",
 			"name": "🐬每日大赛.py｜🔞[成人]",
 			"type": 3,
@@ -816,7 +822,7 @@
         },
 		{
             "key": "rou",
-            "name": "肉視頻.py｜🔞[成人]",
+            "name": "🐬肉視頻.py｜🔞[成人]",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/rou.py",
             "searchable": 1,
