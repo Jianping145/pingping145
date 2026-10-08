@@ -2665,7 +2665,7 @@
     },
     {
       "key": "U酷資源",
-      "name": "🐬U酷資源┃伦理[追剧]",
+      "name": "🐬U酷資源┃伦理🔞[追剧]",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -2674,7 +2674,7 @@
     },
     {
       "key": "虎牙资源",
-      "name": "🐬虎牙资源┃伦理[追剧]",
+      "name": "🐬虎牙资源┃伦理🔞[追剧]",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -2692,7 +2692,7 @@
     },
     {
       "key": "天涯资源",
-      "name": "🐬天涯资源┃伦理[追剧]",
+      "name": "🐬天涯资源┃伦理🔞[追剧]",
       "type": 0,
       "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
       "searchable": 1,
@@ -2700,7 +2700,7 @@
     },
     {
       "key": "iKun资源",
-      "name": "🐬iKun资源┃伦理[追剧]",
+      "name": "🐬iKun资源┃伦理🔞[追剧]",
       "type": 0,
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -2858,7 +2858,7 @@
       "key": "stripchat",
       "name": "🐬stripchat直播.py｜🔞[成人直播]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/stripchat.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/stripchat直播.py"
     },
     {
       "key": "Cam4",
@@ -3138,10 +3138,10 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/四虎视频.py"
     },
     {
-      "key": "lyt",
-      "name": "🐬撸一天.py｜🔞[成人]",
+      "key": "lst",
+      "name": "🐬撸上天.py｜🔞[成人]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/撸一天.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/撸上天.py"
     },
     {
       "key": "scpd",
