@@ -5,7 +5,7 @@
     "warningText": "注意:有成人内容",
     "sites": [
         {
-          "key": "YK",
+          "key": "优酷",
           "name": "🐬优酷视频.py｜[追剧]",
           "type": 3,
           "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/优酷.py"
