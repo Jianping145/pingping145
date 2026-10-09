@@ -43,7 +43,7 @@
           "key": "txvm",
           "name": "🐬腾讯视频.py｜[追剧]",
           "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/腾讯视频.py"
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/腾讯.py"
         },
 		{"key":"MG",
         "name":"🐬芒果TV｜[追剧]",
@@ -62,7 +62,7 @@
            "key": "MGtv",
            "name": "🐬芒果TV.py｜[追剧]",
            "type": 3,
-           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/芒果TV.py"
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/芒果TV.py"
        },
 		{
             "name": "弹幕",
