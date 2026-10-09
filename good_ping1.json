@@ -309,6 +309,12 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/优视频.py"
 		},
 		{
+			"key": "a123tv",
+			"name": "🐬a123tv.py｜🔞[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/a123tv.py"
+		},
+		{
           "key": "yl",
           "name": "🐬永乐视频.py｜[追剧]",
           "type": 3,
