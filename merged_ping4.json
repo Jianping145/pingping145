@@ -2221,16 +2221,16 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/油管.py"
     },
     {
-      "key": "youtube3",
-      "name": "🐬油管直播,py[直播]",
+      "key": "洛雪TV",
+      "name": "🐬洛雪TV,py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/油管直播.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/洛雪TV.py"
     },
     {
-      "key": "视觉影院",
-      "name": "🐬视觉影院.py[追剧]",
+      "key": "九九TV",
+      "name": "🐬九九TV.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/视觉影院.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/九九TV.py"
     },
     {
       "key": "袋鼠影视",
@@ -2469,73 +2469,73 @@
       "key": "ikbot",
       "name": "🐬爱看机器人.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/爱看机器人.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/爱看机器人.py"
     },
     {
       "key": "jok",
       "name": "🐬剧OK.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/剧OK.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/剧OK.py"
     },
     {
       "key": "xhvm",
       "name": "🐬骚火影视.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/骚火影视.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/骚火影视.py"
     },
     {
       "key": "ayf",
       "name": "🐬爱壹帆影视.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/爱壹帆.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/爱壹帆.py"
     },
     {
       "key": "MH",
       "name": "🐬麻花影视.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/麻花影视.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/麻花影视.py"
     },
     {
       "key": "XH",
       "name": "🐬星河影视.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/星河影视.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/星河影视.py"
     },
     {
       "key": "guanfeng",
       "name": "🐬观风影视.py(关梯)[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/观风影视.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/观风影视.py"
     },
     {
       "key": "SZ",
       "name": "🐬山楂影视.py(关梯)[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/山楂影视.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/山楂影视.py"
     },
     {
       "key": "qmvm",
       "name": "🐬七猫影视.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七猫影视.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/七猫影视.py"
     },
     {
       "key": "nmvm",
       "name": "🐬农民影视.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/农民影视.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/农民影视.py"
     },
     {
       "key": "xc",
       "name": "🐬星辰影院.py(关梯)[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/星辰影院.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/星辰影院.py"
     },
     {
       "key": "hstv",
       "name": "🐬华数TV.py(关梯)[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/华数TV.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/华数TV.py"
     },
     {
       "key": "dttv",
@@ -2547,13 +2547,13 @@
       "key": "wstv",
       "name": "🐬威视TV.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/威视TV.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/威视TV.py"
     },
     {
       "key": "dsys",
       "name": "🐬毒舌影视.py(关梯)[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/毒舌影视.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/毒舌影视.py"
     },
     {
       "key": "456dy",
@@ -2571,7 +2571,7 @@
       "key": "8tdy",
       "name": "🐬八天电影.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/八天电影.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/八天电影.py"
     },
     {
       "key": "ysxq",
@@ -2583,7 +2583,7 @@
       "key": "cjjh",
       "name": "🐬采集聚合.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/采集聚合.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/采集聚合.py"
     },
     {
       "key": "xyzkk",
