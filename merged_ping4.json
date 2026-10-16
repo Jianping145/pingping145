@@ -3252,11 +3252,17 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/VHUB.py"
     },
     {
-      "key": "MD",
-      "name": "🐬麻豆免费在线播放.py｜🔞[成人]",
+      "key": "wyav",
+      "name": "🐬午夜av.py｜🔞[成人][免梯]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/麻豆免费在线播放.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/wyav.py"
     },
+	{
+      "key": "wuyeov",
+      "name": "🐬午夜影院.py｜🔞[成人][免梯]",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/wuyeov.py"
+    }, 
     {
 	  "key": "getav",
 	  "name": "🐬蝴蝶影视.py｜🔞[成人][梯子]",
