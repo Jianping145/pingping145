@@ -2173,8 +2173,14 @@
       "key": "MGtv",
       "name": "🐬芒果TV.py[追剧]",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/芒果TV.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/芒果TV.py"
     },
+    {
+      "key": "idnflix",
+      "name": "🐬idnflix.py[追剧]",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/py/refs/heads/main/idnflix.py"
+    }, 
     {
       "key": "kf",
       "name": "🐬咖啡体育直播.py[直播]",
